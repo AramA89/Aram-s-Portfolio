@@ -28,8 +28,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock-Up
 
-![](assets/aram.port.jpg)
-![](assets/aram.port2.jpg)
+![](assets/images/aram.port.jpg)
+![](assets/images/aram.port2.jpg)
 
 ## Links
 
