@@ -33,8 +33,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Links
 
-https://arama89.github.io/Aram-s-Portfolio/
-https://github.com/AramA89
+> * https://arama89.github.io/Aram-s-Portfolio/
+
+> * https://github.com/AramA89
 
 ## Grading Requirements
 
