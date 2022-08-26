@@ -35,7 +35,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 > * https://arama89.github.io/Aram-s-Portfolio/
 
-> * https://github.com/AramA89
+> * https://github.com/AramA89/Aram-s-Portfolio
 
 ## Grading Requirements
 
